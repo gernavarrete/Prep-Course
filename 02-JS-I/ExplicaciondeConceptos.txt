@@ -1,0 +1,13 @@
+* Variables es un espacio de memoria donde se puede almacenar un valor o dato.
+ * Strings es una cadena de caracteres alfanumericos simbolos signos.
+ * Funciones (argumentos, `return`) Los argumentos son los datos que ingresamos y que la funcion va a 
+ utilizar para analizar y devolvernos un resultado si asi lo requerimos o mostrarnos un resultado.
+  El return es una palabra clave de salida de la funcion la cual nos devuelve el resultado de la misma
+  que puede ser utilizado fuera de la funcion.
+ * Declaraciones `if` 
+ la declaracion if que significa "si" en espanol; es una palabra clave que nos permite analizar si uno 
+ o varios argumentos cumplen la condicion requerida para ingresar a ser analizados por el codigo que se 
+ encuentra dentro de la funcion. En pocas palabras nos dice que si sucede esto haga esta accion.
+ * Valores booleanos (`true`, `false`)
+ Son un tipo de datos y que devueltos por una operacion logica nos indican si la operacion es verdadera (true) 
+ o falsa (false).
