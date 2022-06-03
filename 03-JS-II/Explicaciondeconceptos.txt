@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a 
+descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+El for es una expresion que sirve para repetir una parte de codigo hasta que la condicion
+de salida deje de cumplirse; dejando de realizar el codigo que le hemos incorporado dentro del for.
+* `&&`, `||`, `!`
+son tres tipos de operadores, 
+El operador && que es el 'y' o el AND logico; se utiliza cuando queremos que 
+una o mas condiciones deban ser verdaderas para que se realice el codigo que contiene la expresion que 
+hayamos utilizado. 
+El segundo operador || que es el 'O' u OR logico; lo utilizaremos cuando queremos que un codigo dentro
+de una expresion se cumpla si sucede una u otra de las condiciones, con lo cual si una de las expresiones
+es verdadera ejecuta el codigo sin analizar la veracidad de las demas.
+Y por ultimo, el operador ! que es el NO o  NOT, se coloca cuando queremos negar una expresion que puede ser
+una variable, una condicion, o un resultado booleano.
