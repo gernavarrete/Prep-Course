@@ -1,0 +1,24 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+	* Objetos 
+        Son un conjuntos de datos que nos permiten utilizar propiedades llamadas 'key' para agrupar datos o
+        valores llamados 'value'. En los objetos a diferencia de los arreglos que sus key eran numeros de 
+        indice, podemos utilizar string para asignar las propiedades (key).
+    * Propiedades
+        Son las claves o key de cada value o valor que la identifica para que luego podamos acceder a la
+        informacion almacenada.
+	* Métodos
+        Se le denomina metodo a la funcion que se encuentra dentro de un objeto y la cual forma parte de una 
+        propiedad o clave o key de ese objeto.
+	* Bucle `for…in`
+        El bucle for...in es una funcion de los objetos que nos permite iterar a traves de las claves o propiedades
+        de ese objeto.
+	* Notación de puntos vs notación de corchetes
+        La notacion de puntos es una forma mas sencilla de acceder a las propiedades de un objeto reduciendo
+        el tipeo de caracteres pero la desventaja de esta notacion es que cuando asignamos a una variable una 
+        propiedad o clave no podemos acceder con esta notacion por que toma la variable como nombre de una
+        propiedad dentro del objeto; en cambio la notacion de corchetes, si bien es un poco mas extensivo su tipeo
+        , nos permite acceder a la propiedad que hemos asignado a la variable ya que toma el valor que esa variable
+        contiene.

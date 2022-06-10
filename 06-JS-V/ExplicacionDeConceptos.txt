@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+* `prototype`
+    Es el Objeto "madre" por decirlo de alguna manera de otro objeto, este ultimo hereda las propiedades y 
+    funciones del mencionado Objeto "madre" y que en muchos casos fue su creador.
+* _Constructors_ (de Clases)
+    Es la funcion que nos permite simplificar la creacion de objetos que contengan las mismas propiedades,
+    reduciendo la cantidad de codigo a tipear y que tambien permite contener metodos (funciones) que pueden 
+    ser utilizadas por los objetos que creo y de los cuales es su prototype.
