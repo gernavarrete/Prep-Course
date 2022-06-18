@@ -1,0 +1,20 @@
+html {background-image: url("https://cdn.pixabay.com/photo/2021/05/30/21/48/background-6297148_1280.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;}
+img {width: 400px;position: relative;top: 20px;left: 30px;}
+#thirdDiv {height: 600px;
+        width: 500px;
+        background-color:midnightblue;
+        color:cadetblue;
+        padding: 50px;
+        border: 50px solid yellowgreen; }
+#spanId {font-size: 18px;margin: 50px;
+        color:white;}
+div {text-align: center;}

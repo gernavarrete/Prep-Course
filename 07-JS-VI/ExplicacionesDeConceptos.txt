@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+* Funciones Callback
+Son las funciones que se invocan pasandolas como argumento de otra funcion junto con el o los parametros 
+que dicha funcion va a utilizar en su codigo.
