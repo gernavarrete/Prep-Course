@@ -20,7 +20,8 @@ h1 {
 img {
         width: 400px;
         position: relative;
-        top: 20px;left: 30px;
+        top: 20px;
+        left: 30px;
 }
 #thirdDiv {
         height: 600px;
@@ -29,6 +30,7 @@ img {
         color:cadetblue;
         padding: 50px;
         border: 20px solid yellowgreen;
+        margin-top: 20px;
 }
 #spanId {font-size: 18px;margin: 50px;
         color:white;
