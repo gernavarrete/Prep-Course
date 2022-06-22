@@ -15,7 +15,7 @@ h1 {
         position: fixed;
         top: 20px;
         right: 30px;
-        background-color:white;
+        text-shadow: 2px 2px 3px rgb(150,150,200);
 }
 img {
         width: 400px;
@@ -37,4 +37,7 @@ img {
 }
 div {
         text-align: center;
+}
+.white {
+        color:white;
 }
